@@ -12,8 +12,8 @@ the virustotal has a single false positive.
 download current build here:
 > https://drive.google.com/drive/folders/1BsMPF0YzhlgmXIPaEMYRJg2vC341GRIT?usp=sharing
 ## step2
-drop .exe file into directory with .dds files
+extract to a directory *or* open the .zip file in winrar
 ## step3
-run (double click)
+run the exe file, and choose the folder with the .dds files to convert.
+click select folder.
 ## finished
-this program does not create any new files. it replaces them. run at your own risk of losing files.
