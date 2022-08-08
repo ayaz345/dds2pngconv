@@ -1,9 +1,8 @@
 # chedsapp
 # ched#1234 on discord
 
-# import required module
 import os
-# assign directory
+
 directory = os.path.dirname(os.path.realpath(__file__))
 print(directory)
 
