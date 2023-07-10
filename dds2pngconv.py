@@ -10,4 +10,4 @@ for v in os.listdir(directory):
 	f = os.path.join(directory, v)
 	if os.path.isfile(f) and f[-4:]==".dds":
 		pre, ext = os.path.splitext(f)
-		os.rename(f, pre + ".png")
+		os.rename(f, f"{pre}.png")
